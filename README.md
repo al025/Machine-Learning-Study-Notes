@@ -20,3 +20,9 @@ Interactive Colab notes showing my study journey through the Datacamp Machine Le
 #### chap 4: preprocessing
 - *models*: SVC 
 - *tools*: imputer and scaler for preprocessing; pipeline 
+## Course 2: Unsupervised Learning in Python
+#### chap 1-2: visualize & find dataset clustering 
+- *visualization*: dendrogram, t-SNE, inertia plot
+- *model*: KMeans
+- *metrics*: inertia of kmeans, single vs complete linkage between clusters in hierarchy clustering
+- *tools*: fcluster to extract cluster labels from some intermediate stage of hierarchy clustering
