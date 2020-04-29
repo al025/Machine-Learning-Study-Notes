@@ -17,3 +17,6 @@ Interactive Colab notes showing my study journey through the Datacamp Machine Le
 - *metrics*: confusion_matrix, classfication_report, roc_curve, roc_auc_score
 - *tools*: grid search vs randomized search for hyperparameter tuning
 - *visualization*: ROC space
+#### chap 4: preprocessing
+- *models*: SVC 
+- *tools*: imputer and scaler for preprocessing; pipeline 
