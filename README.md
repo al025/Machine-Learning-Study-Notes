@@ -26,3 +26,8 @@ Interactive Colab notes showing my study journey through the Datacamp Machine Le
 - *model*: KMeans
 - *metrics*: inertia of kmeans, single vs complete linkage between clusters in hierarchy clustering
 - *tools*: fcluster to extract cluster labels from some intermediate stage of hierarchy clustering
+#### chap 3: decorrelate data and dimension reduction 
+- *models*: PCA, TruncatedSVD
+- *tools*: TfidfVectorizer
+- *visualization*: plt.arrow
+
